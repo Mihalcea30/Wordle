@@ -1,10 +1,3 @@
-Proiect 0x00:
-
-Echipa: Mihalcea Alexandru-Ionuț, grupa 152
-    	Căpitanu Andreea, grupa 143
-    	Baciu Rareș, grupa 143
-    	Mocanu Matei, grupa 152
-
 Descrierea proiectului:
 
 Proiectul este format din jocul propriu-zis, solver-ul, calculul mediei de încercări și precalcularea celui mai bun cuvânt ca primă încercare. 
