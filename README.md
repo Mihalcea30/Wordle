@@ -15,6 +15,7 @@ Calcul_medie începe prin folosirea cuvântului TAREI (best first guess), contin
 Nr. mediu de încercări: 4.372882835690588
 
 Referințe: 
+
     Solving Wordle using information theory: https://www.youtube.com/watch?v=v68zYyaEmEA
     
     Oh, wait, actually the best Wordle opener is not “crane”…: https://www.youtube.com/watch?v=fRed0Xmc2Wg
