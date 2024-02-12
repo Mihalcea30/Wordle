@@ -16,7 +16,11 @@ Nr. mediu de încercări: 4.372882835690588
 
 Referințe: 
     Solving Wordle using information theory: https://www.youtube.com/watch?v=v68zYyaEmEA
+    
     Oh, wait, actually the best Wordle opener is not “crane”…: https://www.youtube.com/watch?v=fRed0Xmc2Wg
+    
     Information Theory Applied to Wordle: https://towardsdatascience.com/information-theory-applied-to-wordle-b63b34a6538e
+    
     Maximising Differential Entropy to Solve Wordle: https://aditya-sengupta.github.io/coding/2022/01/13/wordle.html
+    
     Colorama: https://pypi.org/project/colorama/
